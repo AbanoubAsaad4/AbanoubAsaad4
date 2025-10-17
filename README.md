@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Abanoub Asaad
 
-<!--
-**AbanoubAsaad4/AbanoubAsaad4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 *Backend Developer* focused on designing clean, scalable, and efficient systems.  
+☕ Passionate about *Java, **Spring Boot, and **API development*.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+- 🎓 Computer Science Student exploring the backend world  
+- 💻 Currently learning *Spring Boot, **RESTful APIs, and **Database Design*
+- 🧩 Strong understanding of *OOP and **Data Structures*
+- ⚙ Experienced with *Java, **C++, and **Git*
+
+---
+
+### 🛠 Tech Stack
+*Languages:* Java · C++
+*Frameworks & Tools:* Spring Boot · Git · IntelliJ IDEA  
+
+---
+
+### 🚀 Featured Projects
+- 🛒 [E-Commerce System (Java)](https://github.com/AbanoubAsaad4/E-Commerce-System) — OOP-based system with Cart, Checkout & Shipping  
+- 🏋 [Gym Padel System](https://github.com/AbanoubAsaad4/Gym-Padel-System) — system design practice project  
+- 🅿 [Parking Lot Project](https://github.com/AbanoubAsaad4/Parking-Lot) — object-oriented parking system simulation  
+
+---
