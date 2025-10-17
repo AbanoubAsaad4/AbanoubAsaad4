@@ -9,7 +9,6 @@
 - 🎓 Computer Science Student exploring the backend world  
 - 💻 Currently learning **Spring Boot**, **RESTful APIs**, and **Database Design**
 - 🧩 Strong understanding of **OOP** and **Data Structures**
-- ⚙ Experienced with **Java**, **C++**, and **Git**
 
 ---
 
@@ -24,3 +23,8 @@
 - 🅿 [Parking Lot Project](https://github.com/AbanoubAsaad4/Parking-Lot) — object-oriented parking system simulation  
 
 ---
+
+### 📬 Get In Touch
+
+| **LinkedIn** | [Connect with me on LinkedIn](https://www.linkedin.com/in/abanoub-asaad5/) |
+| **Email** | `abanoubasaad2452@email.com` |
